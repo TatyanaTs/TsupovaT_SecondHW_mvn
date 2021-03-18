@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="TsupovaT_SecondHW_mvn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TsupovaT_SecondHW_mvn_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TsupovaT_SecondHW_mvn.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="TsupovaT_SecondHW_mvn" />
+      </element>
+      <element id="library" level="project" name="Maven: ru.pflb:dummy-connector:1.0" />
+    </root>
+  </artifact>
+</component>
