@@ -1,0 +1,10 @@
+Запуск классов:
+
+задание 1
+java -cp TsupovaT_SecondHW_mvn.jar homework2.HW2
+
+вариант 2 задания 1
+java -cp TsupovaT_SecondHW_mvn.jar homework2_ver2.HW2ver2
+
+задание 2
+java -cp TsupovaT_SecondHW_mvn.jar secondTask.secondTask "путь к файлу.dat"
